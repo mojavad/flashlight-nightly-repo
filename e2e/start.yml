@@ -1,0 +1,5 @@
+appId: com.theodo.flashlight-nightly-repo
+---
+- launchApp
+
+- assertVisible: "Open up App.tsx to start working on your app!"
